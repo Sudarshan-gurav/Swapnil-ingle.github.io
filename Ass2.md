@@ -3,10 +3,13 @@ title: Assignment 2
 ---
 ### [Assignment One](https://swapnil-ingle.github.io)  ---     [Assignment Two](https://swapnil-ingle.github.io/Ass2) --- [Concepts List](https://swapnil-ingle.github.io/Concepts) --- [What is Biobank](https://swapnil-ingle.github.io/what_is_biobank)
 
+# Assignment
 
 > ## Subject - Take an input file and find the number of occurrences of individual words.
 
 Say this is a String from the input file. **"Apple is a healthy food but Soda is a Junk food."** The expected output would be 
+
+
 
 
 Listed below is the summary of the approaches and overview of my thinking process as I headed towards solving this problem. All the programs are implemented in *python(3)* programming language.
