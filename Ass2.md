@@ -9,14 +9,6 @@ title: Assignment 2
 
 Say this is a String from the input file. **"Apple is a healthy food but Soda is a Junk food."** The expected output would be 
 
-> * Apple : 1
-> * is : 2
-> * a : 2
-> * healthy : 1
-> * food : 2
-> * but : 1
-> * Soda : 1
-> * Junk : 1
 
 Listed below is the summary of the approaches and overview of my thinking process as I headed towards solving this problem. All the programs are implemented in *python(3)* programming language.
 
